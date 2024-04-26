@@ -1,0 +1,7 @@
+print ("Juan: Hola Mario")
+print ("Mario: Hola Juan, ¿Cómo estás?")
+print ("Juan: Bien, gracias y ¿tú?")
+print ("Mario: Un poco resfriado, puesto que el clima es muy variado")
+print ("Juan: Es verdad, en la mañana hacia calor y ahora llueve")
+print ("Mario: Así es. Bueno debo irme, hablamos luego")
+print ("Juan: Hablamos luego. ¡Cuidate mucho!")
